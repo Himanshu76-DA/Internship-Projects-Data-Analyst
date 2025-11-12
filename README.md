@@ -12,11 +12,16 @@ This repository contains links and dashboards of all projects completed during o
 Performed HR data analysis to uncover **employee trends, attrition insights**, and **workforce metrics** using **Power BI** and **Python**.
 
 📸 **Dashboard Preview:**  
+
+<div align="center">
+
 **Homepage:**  
-<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/HR%20Analytics%20Dashboard%20Overview.png" alt="HR Dashboard Overview" width="800"/>
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/HR%20Analytics%20Dashboard%20Overview.png" alt="HR Dashboard Overview" width="800" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
 
 **Performance Analysis:**  
-<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/HR%20Analytics%20Dashboard%20Performance%20insights.png" alt="HR Dashboard Performance Insights" width="800"/>
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/HR%20Analytics%20Dashboard%20Performance%20insights.png" alt="HR Dashboard Performance Insights" width="800" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+
+</div>
 
 ---
 
@@ -28,7 +33,12 @@ Performed HR data analysis to uncover **employee trends, attrition insights**, a
 Conducted **data cleaning** and **exploratory data analysis** on healthcare data to identify key **medical and billing insights**.  
 
 📸 **Dashboard Preview:**  
-<img src="https://github.com/Himanshu76-DA/EDA-Project-on-Healthcare-Dataset/blob/main/Hospital%20dashboard.jpg" alt="Healthcare Dashboard" width="800"/>
+
+<div align="center">
+
+<img src="https://github.com/Himanshu76-DA/EDA-Project-on-Healthcare-Dataset/blob/main/Hospital%20dashboard.jpg" alt="Healthcare Dashboard" width="800" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+
+</div>
 
 ---
 
@@ -40,7 +50,12 @@ Conducted **data cleaning** and **exploratory data analysis** on healthcare data
 Implemented **RFM analysis** and **customer segmentation** using clustering algorithms to design **targeted marketing strategies**.
 
 📸 **Dashboard Preview:**  
-<img src="https://github.com/Himanshu76-DA/Customer-segmentation-team-project-/blob/main/Dashboard%20Image.png" alt="Customer Segmentation Dashboard" width="800"/>
+
+<div align="center">
+
+<img src="https://github.com/Himanshu76-DA/Customer-segmentation-team-project-/blob/main/Dashboard%20Image.png" alt="Customer Segmentation Dashboard" width="800" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+
+</div>
 
 ---
 
@@ -52,14 +67,19 @@ Implemented **RFM analysis** and **customer segmentation** using clustering algo
 Designed an **interactive Power BI dashboard** to analyze **retail sales performance, profitability,** and **growth trends**.
 
 📸 **Dashboard Preview:**  
+
+<div align="center">
+
 **Homepage:**  
-<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Homepage.png" alt="Sales Dashboard Homepage" width="800"/>
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Homepage.png" alt="Sales Dashboard Homepage" width="800" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
 
 **Sales Analysis:**  
-<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Sales%20Analysis.png" alt="Sales Analysis Dashboard" width="800"/>
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Sales%20Analysis.png" alt="Sales Analysis Dashboard" width="800" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
 
 **Loss Analysis:**  
-<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Loss%20Analysis.png" alt="Loss Analysis Dashboard" width="800"/>
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Loss%20Analysis.png" alt="Loss Analysis Dashboard" width="800" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+
+</div>
 
 ---
 
