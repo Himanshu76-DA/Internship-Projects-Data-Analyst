@@ -48,7 +48,14 @@ Implemented **RFM analysis** and **customer segmentation** using clustering algo
 Designed an **interactive Power BI dashboard** to analyze **retail sales performance, profitability,** and **growth trends**.
 
 📸 **Dashboard Preview:**  
-<img src="https://github.com/siddheshDA/SuperStore_Sales_Analysis/blob/main/Superstore%20Sales%20Dashboard.png" alt="Superstore Sales Dashboard" width="800"/>
+**Homepage:**  
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Homepage.png" alt="Sales Dashboard Homepage" width="800"/>
+
+**Sales Analysis:**  
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Sales%20Analysis.png" alt="Sales Analysis Dashboard" width="800"/>
+
+**Loss Analysis:**  
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/Sales%20data%20dashboard%20Loss%20Analysis.png" alt="Loss Analysis Dashboard" width="800"/>
 
 ---
 
