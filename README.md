@@ -12,7 +12,11 @@ This repository contains links and dashboards of all projects completed during o
 Performed HR data analysis to uncover **employee trends, attrition insights**, and **workforce metrics** using **Power BI** and **Python**.
 
 📸 **Dashboard Preview:**  
-<img src="https://github.com/nandiniarjun03/HR_Analysis_Team_Project/blob/main/HR%20Dashboard.png" alt="HR Dashboard" width="800"/>
+**Homepage:**  
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/HR%20Analytics%20Dashboard%20Overview.png" alt="HR Dashboard Overview" width="800"/>
+
+**Performance Analysis:**  
+<img src="https://github.com/Himanshu76-DA/Internship-Projects-Data-Analyst/blob/main/HR%20Analytics%20Dashboard%20Performance%20insights.png" alt="HR Dashboard Performance Insights" width="800"/>
 
 ---
 
