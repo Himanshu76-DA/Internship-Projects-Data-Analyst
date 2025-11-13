@@ -50,7 +50,7 @@ Conducted **data cleaning** and **exploratory data analysis** on healthcare data
 ## 🧾 Project 3: Customer Segmentation Using E-commerce Dataset  
 
 🔗 [View Project Repository](https://github.com/Himanshu76-DA/Customer-segmentation-team-project-)  
-🌐 [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMzc4YzBjNWQtNDRjOS00NzEzLTlhMGItMWIxZmE3MmM1YjJkIiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
+🌐 [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGVkODYyOGMtNTc0My00YTg1LTg0YjItOWU4MzUyYmQwZDAxIiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
 
 **Description:**  
 Implemented **RFM analysis** and **customer segmentation** using clustering algorithms to design **targeted marketing strategies**.
@@ -68,7 +68,7 @@ Implemented **RFM analysis** and **customer segmentation** using clustering algo
 ## 🏬 Project 4: Sales Dashboard Using a Retail Sales Dataset  
 
 🔗 [View Project Repository](https://github.com/siddheshDA/SuperStore_Sales_Analysis)  
-🌐 [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGVkODYyOGMtNTc0My00YTg1LTg0YjItOWU4MzUyYmQwZDAxIiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
+🌐 [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMzc4YzBjNWQtNDRjOS00NzEzLTlhMGItMWIxZmE3MmM1YjJkIiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
 
 **Description:**  
 Designed an **interactive Power BI dashboard** to analyze **retail sales performance, profitability,** and **growth trends**.
