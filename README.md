@@ -4,9 +4,13 @@ This repository contains links and dashboards of all projects completed during o
 
 ---
 
+> 💻 **Live Dashboard:** We have also provided the deployed Power BI dashboard link below for direct viewing.
+
+
 ## 🧩 Project 1: HR Analysis Using Sample HR Data  
 
 🔗 [View Project Repository](https://github.com/nandiniarjun03/HR_Analysis_Team_Project)  
+🌐 [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjFkYjhhM2QtZWJjZS00Y2I1LThjZGMtYjg1NmNkMTY0Mzg2IiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
 
 **Description:**  
 Performed HR data analysis to uncover **employee trends, attrition insights**, and **workforce metrics** using **Power BI** and **Python**.
@@ -28,6 +32,7 @@ Performed HR data analysis to uncover **employee trends, attrition insights**, a
 ## 🏥 Project 2: Data Analysis Using Medical Dataset  
 
 🔗 [View Project Repository](https://github.com/Himanshu76-DA/EDA-Project-on-Healthcare-Dataset)  
+🌐 [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTM2ZjcyNzctYTc4Ny00Y2I4LTliMTMtYjJjNDc4ZGI0Y2ViIiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
 
 **Description:**  
 Conducted **data cleaning** and **exploratory data analysis** on healthcare data to identify key **medical and billing insights**.  
@@ -42,9 +47,10 @@ Conducted **data cleaning** and **exploratory data analysis** on healthcare data
 
 ---
 
-## 🛒 Project 3: Customer Segmentation Using E-commerce Dataset  
+## 🧾 Project 3: Customer Segmentation Using E-commerce Dataset  
 
 🔗 [View Project Repository](https://github.com/Himanshu76-DA/Customer-segmentation-team-project-)  
+🌐 [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMzc4YzBjNWQtNDRjOS00NzEzLTlhMGItMWIxZmE3MmM1YjJkIiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
 
 **Description:**  
 Implemented **RFM analysis** and **customer segmentation** using clustering algorithms to design **targeted marketing strategies**.
@@ -62,6 +68,7 @@ Implemented **RFM analysis** and **customer segmentation** using clustering algo
 ## 🏬 Project 4: Sales Dashboard Using a Retail Sales Dataset  
 
 🔗 [View Project Repository](https://github.com/siddheshDA/SuperStore_Sales_Analysis)  
+🌐 [View Live Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGVkODYyOGMtNTc0My00YTg1LTg0YjItOWU4MzUyYmQwZDAxIiwidCI6IjA5YTA3MGE3LWMzMzctNGFmNi1iMzZmLTQwMDE1MWY3NGEyYSJ9)
 
 **Description:**  
 Designed an **interactive Power BI dashboard** to analyze **retail sales performance, profitability,** and **growth trends**.
